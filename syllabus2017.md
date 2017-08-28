@@ -1,19 +1,18 @@
 # WEB ART ARTTECH 3900
 ## Course Information
-### PROFPRAC 3900-01 Professional Practice: Web-Art
-### 3 credits
-### Semester: Fall 2017
-### Meeting Times and Days: Mon/Wed 6pm-9pm Aug 30, 2017 to Dec 18, 2017
-### Class Location: MacLean 401
-### Online Component:
-### Class website: bachadam.github.io/web-art-fall2017/
-### Slack channel: saic_webart2017   saicwebart2017.slack.com
-### Class Blog o’stuff: [Organize the Internet Aesthetic] (https://organize-the-internet-aesth-blog.tumblr.com/)
+#### PROFPRAC 3900-01 Professional Practice: Web-Art
+3 credits
+Semester: Fall 2017
+Meeting Times and Days: Mon/Wed 6pm-9pm Aug 30, 2017 to Dec 18, 2017
+####Online Component:
+Class website: bachadam.github.io/web-art-fall2017/
+Slack channel: saic_webart2017   saicwebart2017.slack.com
+Class Blog o’stuff: [Organize the Internet Aesthetic](https://organize-the-internet-aesth-blog.tumblr.com/)
 
 ### Instructor
-#### Adam Bach
-#### abach@saic.edu
-#### Mentoring Hours: By appointment, send an email or get in touch through Slack
+Adam Bach
+abach@saic.edu
+Mentoring Hours: By appointment, send an email or get in touch through Slack
 
 ## Course Description
 Professional Practice: Web Art is a course that combines creative and practical knowledge related to web site development. Launched in 1989 as a remote file sharing system for scientists, the World Wide Web is nearly thirty years old. Today, the web functions as an exhibition space, a communications hub as well as a nexus for creative expression. Students in the Web Art class will learn the Hypertext Mark-Up Language (HTML), which is the basis of WWW authoring. Potential overall format and conceptual frameworks for developing a media-rich web site will be investigated, and ways of subverting the traditional web page format in order to create unique approaches to the dynamics of the web will be explored. Course activities include technical tutorials, preparation of a CV, writing of a project statement, and the creation of a web site.
@@ -32,20 +31,20 @@ Build a critical framework for discussing your work in the wider context of inte
 
 
 ## Course Texts
-Vannevar Bush “As We May Think”
-TIm Berners-Lee “Long Live the Web”
-Natalie Bookchin and Alexei Shulgin “Introduction to net.art (1994-1999)”
-Doug Rushkoff “Program or Be Programmed”
-Olia Lialina “Rich User Experience, UI, and Desktopization of War”
-Zuckerman “The Internet’s Original Sin”
-Optional:
-	Borges “Garden of Forking Paths”
-	 Jer Thorp [“On Data and Performance”] (http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
+* Vannevar Bush “As We May Think”
+* Tim Berners-Lee “Long Live the Web”
+* Natalie Bookchin and Alexei Shulgin “Introduction to net.art (1994-1999)”
+* Doug Rushkoff “Program or Be Programmed”
+* Olia Lialina “Rich User Experience, UI, and Desktopization of War”
+* Zuckerman “The Internet’s Original Sin”
+* Optional:
+	* Borges “Garden of Forking Paths”
+	* Jer Thorp [“On Data and Performance”] (http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
 
 ## Course Materials
-A computer that can connect to the internet
-Atom - a text editor-- atom.io
-Github desktop client-- desktop.github.com
+* A computer that can connect to the internet
+* Atom - a text editor-- atom.io
+* Github desktop client-- desktop.github.com
 
 ## Major Assignments
 We will posting to our class blog a collection of web arts we find interesting, perplexing, notable.
