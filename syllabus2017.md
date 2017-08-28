@@ -18,10 +18,10 @@ Mentoring Hours: By appointment, send an email or get in touch through Slack
 Professional Practice: Web Art is a course that combines creative and practical knowledge related to web site development. Launched in 1989 as a remote file sharing system for scientists, the World Wide Web is nearly thirty years old. Today, the web functions as an exhibition space, a communications hub as well as a nexus for creative expression. Students in the Web Art class will learn the Hypertext Mark-Up Language (HTML), which is the basis of WWW authoring. Potential overall format and conceptual frameworks for developing a media-rich web site will be investigated, and ways of subverting the traditional web page format in order to create unique approaches to the dynamics of the web will be explored. Course activities include technical tutorials, preparation of a CV, writing of a project statement, and the creation of a web site.
 
 ## Student Learning Goals
-Implement a well-planned creative project, applying professional skills relevant to your artistic, creative, and/or scholarly practice.
-Present a professional body of work in an online context, demonstrating a critical awareness of audience and selection of work.
-Create connections and linkages with relevant practitioners, organizations, and institutions in students’ field(s) of interest, with an attention to identifying key figures as well as situating their own work within these fields.
-Demonstrate the ability to think, speak, and write clearly and effectively with regard to the creative and/or scholarly practice.
+* Implement a well-planned creative project, applying professional skills relevant to your artistic, creative, and/or scholarly practice.
+* Present a professional body of work in an online context, demonstrating a critical awareness of audience and selection of work.
+* Create connections and linkages with relevant practitioners, organizations, and institutions in students’ field(s) of interest, with an attention to identifying key figures as well as situating their own work within these fields.
+* Demonstrate the ability to think, speak, and write clearly and effectively with regard to the creative and/or scholarly practice.
 
 ## Additional Course Description/Goals
 Understand and critique the structure of the internet and its networks.
@@ -31,20 +31,20 @@ Build a critical framework for discussing your work in the wider context of inte
 
 
 ## Course Texts
-* Vannevar Bush “As We May Think”
-* Tim Berners-Lee “Long Live the Web”
-* Natalie Bookchin and Alexei Shulgin “Introduction to net.art (1994-1999)”
-* Doug Rushkoff “Program or Be Programmed”
-* Olia Lialina “Rich User Experience, UI, and Desktopization of War”
-* Zuckerman “The Internet’s Original Sin”
-* Optional:
+Vannevar Bush “As We May Think”
+Tim Berners-Lee “Long Live the Web”
+Natalie Bookchin and Alexei Shulgin “Introduction to net.art (1994-1999)”
+Doug Rushkoff “Program or Be Programmed”
+Olia Lialina “Rich User Experience, UI, and Desktopization of War”
+Zuckerman “The Internet’s Original Sin”
+Optional:
 	* Borges “Garden of Forking Paths”
-	* Jer Thorp [“On Data and Performance”] (http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
+	* Jer Thorp [“On Data and Performance”](http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
 
 ## Course Materials
-* A computer that can connect to the internet
-* Atom - a text editor-- atom.io
-* Github desktop client-- desktop.github.com
+A computer that can connect to the internet
+Atom - a text editor-- atom.io
+Github desktop client-- desktop.github.com
 
 ## Major Assignments
 We will posting to our class blog a collection of web arts we find interesting, perplexing, notable.
@@ -60,7 +60,7 @@ Final-- The project realized
 - Getting everyone setup
 - Introductory HTML
 	* Document structure, syntax
-	* <h1>, <p>, <img>
+	* `<h1>, <p>, <img>`
 - Read “As We May Think”  and “Introduction to net.art (1994-1999)” for next class
 
 ### Week 1- 06 Sept 2017
@@ -121,7 +121,7 @@ Final-- The project realized
 - p5.sound and other libraries
 
 ### Week 7- 18 Oct 2017
-
+*
 ### Week 8- 23 Oct 2017
 - Lab time and check-ins
 
@@ -133,7 +133,7 @@ Final-- The project realized
 - Extensions intro and alternative ways of using/viewing the web
 - CSS Chrome Extensions
 - Download Floodwatch (found on the chrome store) and play around with it
-- Read ["You Are Not Your Browser History"] (https://medium.com/backchannel/you-are-not-your-browser-history-cdff623a3b24)
+- Read ["You Are Not Your Browser History"](https://medium.com/backchannel/you-are-not-your-browser-history-cdff623a3b24)
 
 ### Week 9- 1 Nov 2017
 - JS Chrome Extensions
@@ -162,7 +162,7 @@ Final-- The project realized
 - Post-Internet explorations
 
 ### Week 13- 29 Nov 2017
-
+*
 ### Week 14- 4 Dec 2017
 - Crit week- No class
 
@@ -180,7 +180,6 @@ Final-- The project realized
 - Physics simulation with matter.js
 - Artist visit and talk with David Hall, who uses works with the generation of text on the web
 
-
 ## Course Evaluation
 Regular Assignments 25%
 Participation 25%
@@ -188,12 +187,12 @@ Mid-term 25%
 Final Project 25%
 
 ## Resources
-Inspiration from [Rhizome] (https://anthology.rhizome.org/) and [Dia] (https://diaart.org/program/exhibitions-projects/type/web-project)
-Dan Shiffman’s [Coding Train] (https://www.youtube.com/user/shiffman)
-[Github student developer pack] (https://education.github.com/)
+Inspiration from [Rhizome](https://anthology.rhizome.org/) and [Dia](https://diaart.org/program/exhibitions-projects/type/web-project)
+Dan Shiffman’s [Coding Train](https://www.youtube.com/user/shiffman)
+[Github student developer pack](https://education.github.com/)
 
 ### APIs
-[ProgrammableWeb] (https://www.programmableweb.com/);
+[ProgrammableWeb](https://www.programmableweb.com/);
 https://gist.github.com/afeld/4952991
 http://apievangelist.com/
 
@@ -223,7 +222,8 @@ Writing Center Information:
 Writing Center
 Lakeview Building, 116 S. Michigan Ave., 10th Floor
 writingcenter@saic.edu
-312.499.4138 http://www.saic.edu/academics/academicresources/writingcenter/
+312.499.4138
+http://www.saic.edu/academics/academicresources/writingcenter/
 Appointments
 Schedule in advance: https://www.supersaas.com/schedule/saic/WritingCenter
 Short-notice: Call 312.499.4138 to see if there are any openings
