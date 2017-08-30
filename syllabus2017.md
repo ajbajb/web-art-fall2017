@@ -43,8 +43,8 @@ Optional:
 
 ### Course Materials
 A computer that can connect to the internet <br>
-Atom - a text editor-- [atom.io](atom.io) <br>
-[Github desktop client](desktop.github.com)
+Atom - a text editor-- [atom.io](https://www.atom.io) <br>
+[Github desktop client](https://wwww.desktop.github.com)
 
 ### Major Assignments
 We will posting to our class blog a collection of web arts we find interesting, perplexing, notable. <br>
