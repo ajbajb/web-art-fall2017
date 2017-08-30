@@ -15,7 +15,7 @@ var wY = 0.0;
 var wobbleInc = 0.0;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  var canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent('sketchHolder');
 }
 
