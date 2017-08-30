@@ -3,7 +3,8 @@
 #### PROFPRAC 3900-01 Professional Practice: Web-Art
 3 credits <br>
 Semester: Fall 2017<br>
-Meeting Times and Days: Mon/Wed 6pm-9pm Aug 30, 2017 to Dec 18, 2017
+Meeting Times and Days: Mon/Wed 6pm-9pm Aug 30, 2017 to Dec 18, 2017<br>
+Meeting Place: MacLean 401
 #### Online Component:
 Class website: bachadam.github.io/web-art-fall2017/ <br>
 Slack channel: saic_webart2017 <br> saicwebart2017.slack.com <br>
