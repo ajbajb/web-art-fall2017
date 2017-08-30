@@ -16,7 +16,7 @@ var wobbleInc = 0.0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  canvas.parent('sketchholder');
+  canvas.parent('sketchHolder');
 }
 
 function moveText() {
